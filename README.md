@@ -3,7 +3,7 @@ Professor: Georgios Ch Sirakoulis
 
 keywords: low level programming, C, μVision, image processing, performance optimization, integrated systems design
 
-*Project 1 - Loop optimization
+* Project 1 - Loop optimization
   * Loop Unrolling
   * Loop Fusion - Fission
   * Loop Interchange
