@@ -1,0 +1,19 @@
+ROM 0x0 0x12F8D4
+{
+	ROM 0x0 0x2EBC
+	{
+		*.o  (+RO)
+	}
+	DRAM 0x2EBC 0x12B95C
+	{
+		* (+ZI, +RW)
+	}
+	SRAM1 0x12E818 0x0024
+	{
+		*(sram1)
+	}
+	SRAM2 0x12E83C 0x1098
+	{
+		*(sram2)
+	}
+}

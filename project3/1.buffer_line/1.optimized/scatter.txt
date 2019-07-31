@@ -1,0 +1,15 @@
+ROM 0x0 0x12F884
+{
+	ROM 0x0 0x2E90
+	{
+		*.o  (+RO)
+	}
+	DRAM 0x2E90 0x12B95C
+	{
+		* (+ZI, +RW)
+	}
+	SRAM 0x12E7EC 0x1098
+	{
+		*(sram)
+	}
+}
