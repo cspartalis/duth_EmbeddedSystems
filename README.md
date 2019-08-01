@@ -1,4 +1,4 @@
-# My class projects on "Integrated Systems" in Democritus University of Thrace
+# My class projects on "Integrated Systems" at Democritus University of Thrace
 Professor: Georgios Ch Sirakoulis
 
 keywords: low level programming, C, μVision, image processing, performance optimization, integrated systems design
